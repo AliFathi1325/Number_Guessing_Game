@@ -32,19 +32,11 @@ This is a simple number guessing game built with Python using the Streamlit fram
 
 ## How to Play
 
-1. Enter your guess in the input box (must be between 1 and 100).
-2. Click the 'Submit Guess' button.
-3. The game will inform you if the correct number is higher or lower than your guess.
-4. Keep guessing until you find the correct number or run out of attempts (5 attempts total).
+- Enter your guess in the input box (must be between 1 and 100).
+- Click the 'Submit Guess' button.
+- The game will inform you if the correct number is higher or lower than your guess.
+- Keep guessing until you find the correct number or run out of attempts (5 attempts total).
 
-## Future Enhancements
-
-Some ideas to improve the game:
-
-1. Add difficulty levels (more or fewer attempts).
-2. Add a scoring system based on the number of attempts used.
-3. Enhance the UI with additional styling or animations.
-4. Option to restart the game without refreshing the page.
 
 ## Requirements
 
